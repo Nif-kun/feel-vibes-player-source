@@ -1,0 +1,65 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=4
+
+_global_script_classes=[ {
+"base": "StrictFocusButton",
+"class": "IconButton",
+"language": "GDScript",
+"path": "res://scripts/button_icon_switch.gd"
+}, {
+"base": "Reference",
+"class": "ShortLib",
+"language": "GDScript",
+"path": "res://library/ShortLib.gd"
+}, {
+"base": "Button",
+"class": "StrictFocusButton",
+"language": "GDScript",
+"path": "res://scripts/button_focus_strict.gd"
+}, {
+"base": "SpinBox",
+"class": "StrictSpinBox",
+"language": "GDScript",
+"path": "res://scripts/spinbox_value_strict.gd"
+}, {
+"base": "LineEdit",
+"class": "SubtleLineEdit",
+"language": "GDScript",
+"path": "res://scripts/line_edit_editable_sublte.gd"
+} ]
+_global_script_class_icons={
+"IconButton": "",
+"ShortLib": "",
+"StrictFocusButton": "",
+"StrictSpinBox": "",
+"SubtleLineEdit": ""
+}
+
+[application]
+
+config/name="FeelVibes - Player"
+run/main_scene="res://scenes/Player.tscn"
+config/icon="res://icon.png"
+
+[gui]
+
+common/drop_mouse_on_gui_input_disabled=true
+
+[mono]
+
+project/assembly_name="FeelVibes - Player"
+
+[physics]
+
+common/enable_pause_aware_picking=true
+
+[rendering]
+
+environment/default_environment="res://default_env.tres"

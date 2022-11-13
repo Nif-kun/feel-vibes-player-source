@@ -1,0 +1,9 @@
+F:\Programming\AppDev\Projects\feel-vibes-player\.mono\temp\bin\Debug\FeelVibes - Player.dll
+F:\Programming\AppDev\Projects\feel-vibes-player\.mono\temp\bin\Debug\FeelVibes - Player.pdb
+F:\Programming\AppDev\Projects\feel-vibes-player\.mono\temp\obj\Debug\FeelVibes - Player.csproj.AssemblyReference.cache
+F:\Programming\AppDev\Projects\feel-vibes-player\.mono\temp\obj\Debug\FeelVibes - Player.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\AppDev\Projects\feel-vibes-player\.mono\temp\obj\Debug\FeelVibes - Player.AssemblyInfoInputs.cache
+F:\Programming\AppDev\Projects\feel-vibes-player\.mono\temp\obj\Debug\FeelVibes - Player.AssemblyInfo.cs
+F:\Programming\AppDev\Projects\feel-vibes-player\.mono\temp\obj\Debug\FeelVibes - Player.csproj.CoreCompileInputs.cache
+F:\Programming\AppDev\Projects\feel-vibes-player\.mono\temp\obj\Debug\FeelVibes - Player.dll
+F:\Programming\AppDev\Projects\feel-vibes-player\.mono\temp\obj\Debug\FeelVibes - Player.pdb
